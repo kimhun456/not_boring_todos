@@ -1,6 +1,6 @@
-# Nuxt Minimal Starter
+# Not boring todos
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+General Todo application but not boring.
 
 ## Setup
 
